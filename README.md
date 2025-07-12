@@ -20,3 +20,8 @@ Basketball success isn't just about feel or instinct. This generator uses math t
 
 ```bash
 python lineup_generator.py
+```
+
+## 🎉 Credits
+
+I would like to give a big thanks to my father (who coaches in the summer) for giving me this idea, and my brother (and teammate) for helping me do the math behind creating these effective lineups. This was made for the [Marlboro Basketball Association](https://www.marlborobasketball.com/) Recreational League for coaches to build effective lineups while following all play-time rules.
