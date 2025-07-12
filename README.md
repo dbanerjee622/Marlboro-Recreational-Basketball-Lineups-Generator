@@ -1,4 +1,4 @@
-# 🏀 Marlboro Recreational Basketball Lineup Generator
+# 🏀 Marlboro Rec Basketball Lineup Generator
 
 This project builds the **most effective lineups** for a 6-segment game in Marlboro Rec Basketball using pure math and logic.
 
